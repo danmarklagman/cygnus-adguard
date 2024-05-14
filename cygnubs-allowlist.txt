@@ -1,1 +1,2 @@
 sbfm-collab1.database.windows.net
+us-teams.events.data.microsoft.com
