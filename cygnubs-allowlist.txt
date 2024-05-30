@@ -4,3 +4,4 @@ us-teams.events.data.microsoft.com
 eu-teams.events.data.microsoft.com
 *.teamviewer.com
 *.router.teamviewer.com
+||teamviewer.com^
